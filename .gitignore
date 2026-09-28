@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/
+outputs/
+zzzzzz/
+app_backup.py
+app_before_phase1.py
+SatQuery-AI-replacements.zip
+.streamlit/secrets.toml
